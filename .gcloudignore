@@ -1,0 +1,15 @@
+# dirs
+.github
+.venv
+.vscode
+.mypy_cache
+.git
+
+# files
+.flake8
+.pre-commit-config.yaml
+.gitignore
+requirements-flake8.txt
+.isort.cfg
+.mypy.ini
+README.md
