@@ -141,3 +141,4 @@ dump.rdb
 .isort.cfg
 .mypy.ini
 staticfiles
+keys.json

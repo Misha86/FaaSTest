@@ -15,3 +15,5 @@ requirements-flake8.txt
 README.md
 .coverage
 tests.py
+keys.json
+.env
