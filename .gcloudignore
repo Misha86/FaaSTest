@@ -13,3 +13,5 @@ requirements-flake8.txt
 .isort.cfg
 .mypy.ini
 README.md
+.coverage
+tests.py
