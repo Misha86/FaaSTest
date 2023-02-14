@@ -54,7 +54,7 @@ def get_weather_data(cloud_event):
     """Executed function(FaaS) for getting weather data."""
     city = "Kyiv"
     json_data = get_data(city, 3)
-    if len(json_data) != 7:
+    if len(json_data) != 10:
         print(json_data)
     else:
         save_data_to_excel(json_data, city)
