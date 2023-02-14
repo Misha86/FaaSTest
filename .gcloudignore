@@ -17,3 +17,4 @@ README.md
 tests.py
 keys.json
 .env
+*.xlsx

@@ -142,3 +142,4 @@ dump.rdb
 .mypy.ini
 staticfiles
 keys.json
+*.xlsx
