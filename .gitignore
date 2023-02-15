@@ -143,3 +143,5 @@ dump.rdb
 staticfiles
 keys.json
 *.xlsx
+project_keys.json
+token_write.pickle

@@ -9,6 +9,10 @@ on:
   push:
     branches: ["main"]
 
+env:
+  X_RapidAPI_Key: ${{ secrets.X_RapidAPI_Key }}
+  X_RapidAPI_Host: ${{ secrets.X_RapidAPI_Host }}
+
 # jobs definition
 jobs:
   health-check-job: # health check job for testing and code formatting check

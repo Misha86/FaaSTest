@@ -18,3 +18,5 @@ tests.py
 keys.json
 .env
 *.xlsx
+project_keys.json
+token_write.pickle
